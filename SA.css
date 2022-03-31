@@ -58,9 +58,9 @@ ul li a {
     flex: 40px;
     }
 
-.content {
+.container {
     display: flex;
-    flex-direction: raw;
+    flex-direction: row;
     padding: 157px;
     
 }
@@ -96,7 +96,11 @@ line-height: 74px;
 color: #000000;
 
 }
-
+img {
+    display: flex;
+    left: 0px;
+top: 0px;
+}
     
 
 
